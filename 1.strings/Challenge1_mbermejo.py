@@ -1,5 +1,5 @@
 print("Welcome!")
-name = input("your name?").capitalize()
+name = input("your name? ").capitalize()
 
 print("Nice to see you", name)
 print("This is a program that will count the times the letter you choose appears in your message.")
